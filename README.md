@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <img src = "webpage2.png"
-    	width="auto" height="1200"
+    	width="auto" height="auto"
          alt = "New Watson Assistant Bank" />
 
 </head>
